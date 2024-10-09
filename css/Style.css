@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=Qwitcher+Grypen:wght@400;700&display=swap');
+h2{
+    text-align: center;
+    font-family: "Cedarville Cursive", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 60px;
+    color: pink;
+}
+
+  p{
+    font-size: 40px;
+    font-family: "Cedarville Cursive", cursive;
+    font-weight: 400;
+    font-style: normal;
+    color: pink;
+  }
+ 
+.photo {
+  border: 5px solid black;
+  padding: 0px;
+  display: inline;
+}
+
+img{
+  max-width: 600px;
+  max-height: 600px;
+}
+h1{
+  font-size: 100px;
+  font-family: "Qwitcher Grypen", cursive;
+  font-weight: 600;
+  font-style: normal;
+  text-align: center;
+  color: pink;
+  text-shadow: 5px 5px 5px rgb(170, 51, 106);
+  
+}
+body{
+background-color: black;
+}
